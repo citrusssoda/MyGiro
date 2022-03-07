@@ -1,0 +1,49 @@
+
+main{
+  background-color: rgb(226, 226, 226);
+}
+h3{
+  font-family: 'gardensc';
+}
+
+h6{
+  font-family: 'gardensc';
+}
+.logo{
+  mix-blend-mode: hard-light;
+}
+.nav-link{
+  font-size: 18px;
+  font-family: 'gardensc';
+}
+
+p{
+  font-family: 'gardensc';
+}
+
+.products{
+  width: 300px;
+  height: 250px;
+}
+
+.avatars{
+  width: 300px;
+  height: 250px;
+}
+
+.col-sm-3{
+  min-width: 300px;
+}
+
+.col{
+  padding-top: 100px;
+}
+
+.scroll-top{
+
+  
+}
+
+.btn-scroll{
+  min-width: 100px;
+}
